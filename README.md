@@ -98,10 +98,3 @@ This project was a hands-on walk through the entire machine learning lifecycle:
 - Compared unsupervised insights with actual labels
 
 Together, these models give us a clear way to predict and understand credit behavior – super relevant for roles in **finance, analytics, and risk modeling**.
-
----
-
-## 🚀 Next Steps
-- Add ROC curve and confusion matrix heatmap
-- Deploy results via dashboard (e.g., Streamlit)
-- Push the notebook + summary to GitHub and LinkedIn
